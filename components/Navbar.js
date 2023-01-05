@@ -44,7 +44,7 @@ const Navbar = () => {
               className="button-class"
               style={{ background: "rgb(140, 253, 33)" }}
             >
-              Imrove My Credit
+              Improve My Credit
             </button>
           </div>
         </div>
